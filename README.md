@@ -1,2 +1,2 @@
 # formulario-ajax
-Preenchendo Informações de CEP em um formulário HTML com Ajax.
+Formulário HTML que busca dados de endereço pelo CEP através do webservice do viacep.
